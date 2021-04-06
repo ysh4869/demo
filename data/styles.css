@@ -94,6 +94,22 @@
 ._文本段落 {
   text-align:left;
 }
+._150_行高的文本标题 {
+  font-family:'微软雅黑', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+  line-height:24px;
+}
+._150_行高的文本摘要 {
+  font-family:'微软雅黑', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-align:left;
+  line-height:24px;
+}
 .box_2 {
 }
 .line {
@@ -144,5 +160,7 @@
 .box_22 {
 }
 .icon {
+}
+._150_行高文本段落 {
 }
 textarea, select, input, button { outline: none; }
